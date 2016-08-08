@@ -1,0 +1,4 @@
+mov01|Harry Pottern|5|true|not on loan
+mov02|Life Off Grid|6|false|Milena|not on reserve
+mov03|A Series of Unfortunate Events|3|false|Barry
+kids001|Toy Story|5|true|not on loan
