@@ -146,7 +146,7 @@ public class MovieRentalSystem
 
       boolean movieFound = false;
       for (int m=0; m<movieCount; m++)
-      {d
+      {
          if (movies[m].getMovieID().equalsIgnoreCase(movieID))
          {
             // matching movie found

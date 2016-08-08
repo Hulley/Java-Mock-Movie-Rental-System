@@ -16,6 +16,7 @@ The system also does the following
 	Presents a central menu for navigatimg the system
 	Pulls/Parses existing movies from a database in a textfile
 	Keeps track of movie borrow/reserve/price status
+	Calculates return fees
 	Performs checks and prints appropriate errors
 	Exports updates the database on exit
 
